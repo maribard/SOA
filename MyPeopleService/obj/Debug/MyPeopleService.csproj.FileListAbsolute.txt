@@ -1,0 +1,14 @@
+C:\Users\Mariusz\source\repos\LibraryEntityFramework\MyPeopleService\obj\Debug\MyPeopleService.csprojResolveAssemblyReference.cache
+C:\Users\Mariusz\source\repos\LibraryEntityFramework\MyPeopleService\obj\Debug\MyPeopleService.csproj.CoreCompileInputs.cache
+C:\Users\Mariusz\source\repos\LibraryEntityFramework\MyPeopleService\bin\MyPeopleService.dll.config
+C:\Users\Mariusz\source\repos\LibraryEntityFramework\MyPeopleService\bin\MyPeopleService.dll
+C:\Users\Mariusz\source\repos\LibraryEntityFramework\MyPeopleService\bin\MyPeopleService.pdb
+C:\Users\Mariusz\source\repos\LibraryEntityFramework\MyPeopleService\bin\MyMovieYDTO.dll
+C:\Users\Mariusz\source\repos\LibraryEntityFramework\MyPeopleService\bin\MyPeopleCRUD.dll
+C:\Users\Mariusz\source\repos\LibraryEntityFramework\MyPeopleService\bin\LiteDB.dll
+C:\Users\Mariusz\source\repos\LibraryEntityFramework\MyPeopleService\bin\MyMovieYDTO.pdb
+C:\Users\Mariusz\source\repos\LibraryEntityFramework\MyPeopleService\bin\MyPeopleCRUD.pdb
+C:\Users\Mariusz\source\repos\LibraryEntityFramework\MyPeopleService\bin\LiteDB.xml
+C:\Users\Mariusz\source\repos\LibraryEntityFramework\MyPeopleService\obj\Debug\MyPeopleService.csproj.CopyComplete
+C:\Users\Mariusz\source\repos\LibraryEntityFramework\MyPeopleService\obj\Debug\MyPeopleService.dll
+C:\Users\Mariusz\source\repos\LibraryEntityFramework\MyPeopleService\obj\Debug\MyPeopleService.pdb
