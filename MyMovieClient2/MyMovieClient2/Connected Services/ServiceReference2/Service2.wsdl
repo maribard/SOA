@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="Service2" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost:58465/Service2.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost:58465/Service2.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost:58465/Service2.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/MyMovieYDTO" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IService2_GetById_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetById" />
+  </wsdl:message>
+  <wsdl:message name="IService2_GetById_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetByIdResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService2_GetByName_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetByName" />
+  </wsdl:message>
+  <wsdl:message name="IService2_GetByName_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetByNameResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService2_GetAll_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetAll" />
+  </wsdl:message>
+  <wsdl:message name="IService2_GetAll_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService2_Create_InputMessage">
+    <wsdl:part name="parameters" element="tns:Create" />
+  </wsdl:message>
+  <wsdl:message name="IService2_Create_OutputMessage">
+    <wsdl:part name="parameters" element="tns:CreateResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService2_Update_InputMessage">
+    <wsdl:part name="parameters" element="tns:Update" />
+  </wsdl:message>
+  <wsdl:message name="IService2_Update_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService2_Delete_InputMessage">
+    <wsdl:part name="parameters" element="tns:Delete" />
+  </wsdl:message>
+  <wsdl:message name="IService2_Delete_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService2_GetReviewById_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetReviewById" />
+  </wsdl:message>
+  <wsdl:message name="IService2_GetReviewById_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetReviewByIdResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService2_GetAllReviews_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllReviews" />
+  </wsdl:message>
+  <wsdl:message name="IService2_GetAllReviews_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllReviewsResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService2_GetReviewsByAuthor_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetReviewsByAuthor" />
+  </wsdl:message>
+  <wsdl:message name="IService2_GetReviewsByAuthor_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetReviewsByAuthorResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService2_GetReviewsByMovie_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetReviewsByMovie" />
+  </wsdl:message>
+  <wsdl:message name="IService2_GetReviewsByMovie_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetReviewsByMovieResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService2_CreateReview_InputMessage">
+    <wsdl:part name="parameters" element="tns:CreateReview" />
+  </wsdl:message>
+  <wsdl:message name="IService2_CreateReview_OutputMessage">
+    <wsdl:part name="parameters" element="tns:CreateReviewResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService2_UpdateReview_InputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateReview" />
+  </wsdl:message>
+  <wsdl:message name="IService2_UpdateReview_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateReviewResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService2_DeleteReview_InputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteReview" />
+  </wsdl:message>
+  <wsdl:message name="IService2_DeleteReview_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteReviewResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IService2">
+    <wsdl:operation name="GetById">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService2/GetById" message="tns:IService2_GetById_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService2/GetByIdResponse" message="tns:IService2_GetById_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetByName">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService2/GetByName" message="tns:IService2_GetByName_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService2/GetByNameResponse" message="tns:IService2_GetByName_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAll">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService2/GetAll" message="tns:IService2_GetAll_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService2/GetAllResponse" message="tns:IService2_GetAll_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Create">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService2/Create" message="tns:IService2_Create_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService2/CreateResponse" message="tns:IService2_Create_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Update">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService2/Update" message="tns:IService2_Update_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService2/UpdateResponse" message="tns:IService2_Update_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Delete">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService2/Delete" message="tns:IService2_Delete_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService2/DeleteResponse" message="tns:IService2_Delete_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetReviewById">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService2/GetReviewById" message="tns:IService2_GetReviewById_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService2/GetReviewByIdResponse" message="tns:IService2_GetReviewById_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAllReviews">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService2/GetAllReviews" message="tns:IService2_GetAllReviews_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService2/GetAllReviewsResponse" message="tns:IService2_GetAllReviews_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetReviewsByAuthor">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService2/GetReviewsByAuthor" message="tns:IService2_GetReviewsByAuthor_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService2/GetReviewsByAuthorResponse" message="tns:IService2_GetReviewsByAuthor_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetReviewsByMovie">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService2/GetReviewsByMovie" message="tns:IService2_GetReviewsByMovie_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService2/GetReviewsByMovieResponse" message="tns:IService2_GetReviewsByMovie_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="CreateReview">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService2/CreateReview" message="tns:IService2_CreateReview_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService2/CreateReviewResponse" message="tns:IService2_CreateReview_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateReview">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService2/UpdateReview" message="tns:IService2_UpdateReview_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService2/UpdateReviewResponse" message="tns:IService2_UpdateReview_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DeleteReview">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService2/DeleteReview" message="tns:IService2_DeleteReview_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService2/DeleteReviewResponse" message="tns:IService2_DeleteReview_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IService2" type="tns:IService2">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetById">
+      <soap:operation soapAction="http://tempuri.org/IService2/GetById" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetByName">
+      <soap:operation soapAction="http://tempuri.org/IService2/GetByName" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAll">
+      <soap:operation soapAction="http://tempuri.org/IService2/GetAll" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Create">
+      <soap:operation soapAction="http://tempuri.org/IService2/Create" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Update">
+      <soap:operation soapAction="http://tempuri.org/IService2/Update" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Delete">
+      <soap:operation soapAction="http://tempuri.org/IService2/Delete" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetReviewById">
+      <soap:operation soapAction="http://tempuri.org/IService2/GetReviewById" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAllReviews">
+      <soap:operation soapAction="http://tempuri.org/IService2/GetAllReviews" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetReviewsByAuthor">
+      <soap:operation soapAction="http://tempuri.org/IService2/GetReviewsByAuthor" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetReviewsByMovie">
+      <soap:operation soapAction="http://tempuri.org/IService2/GetReviewsByMovie" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CreateReview">
+      <soap:operation soapAction="http://tempuri.org/IService2/CreateReview" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateReview">
+      <soap:operation soapAction="http://tempuri.org/IService2/UpdateReview" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeleteReview">
+      <soap:operation soapAction="http://tempuri.org/IService2/DeleteReview" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Service2">
+    <wsdl:port name="BasicHttpBinding_IService2" binding="tns:BasicHttpBinding_IService2">
+      <soap:address location="http://localhost:58465/Service2.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

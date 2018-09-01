@@ -1,0 +1,7 @@
+c:\users\mariusz\source\repos\MyMovieClient2\MyMovieClient2\bin\Debug\MyMovieClient2.exe.config
+c:\users\mariusz\source\repos\MyMovieClient2\MyMovieClient2\bin\Debug\MyMovieClient2.exe
+c:\users\mariusz\source\repos\MyMovieClient2\MyMovieClient2\bin\Debug\MyMovieClient2.pdb
+c:\users\mariusz\source\repos\MyMovieClient2\MyMovieClient2\obj\Debug\MyMovieClient2.csprojResolveAssemblyReference.cache
+c:\users\mariusz\source\repos\MyMovieClient2\MyMovieClient2\obj\Debug\MyMovieClient2.csproj.CoreCompileInputs.cache
+c:\users\mariusz\source\repos\MyMovieClient2\MyMovieClient2\obj\Debug\MyMovieClient2.exe
+c:\users\mariusz\source\repos\MyMovieClient2\MyMovieClient2\obj\Debug\MyMovieClient2.pdb
