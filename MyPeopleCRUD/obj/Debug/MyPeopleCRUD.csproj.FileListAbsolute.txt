@@ -1,0 +1,11 @@
+C:\Users\Mariusz\source\repos\LibraryEntityFramework\MyPeopleCRUD\obj\Debug\MyPeopleCRUD.csprojResolveAssemblyReference.cache
+C:\Users\Mariusz\source\repos\LibraryEntityFramework\MyPeopleCRUD\obj\Debug\MyPeopleCRUD.csproj.CoreCompileInputs.cache
+C:\Users\Mariusz\source\repos\LibraryEntityFramework\MyPeopleCRUD\bin\Debug\MyPeopleCRUD.dll
+C:\Users\Mariusz\source\repos\LibraryEntityFramework\MyPeopleCRUD\bin\Debug\MyPeopleCRUD.pdb
+C:\Users\Mariusz\source\repos\LibraryEntityFramework\MyPeopleCRUD\bin\Debug\LiteDB.dll
+C:\Users\Mariusz\source\repos\LibraryEntityFramework\MyPeopleCRUD\bin\Debug\MyMovieYDTO.dll
+C:\Users\Mariusz\source\repos\LibraryEntityFramework\MyPeopleCRUD\bin\Debug\MyMovieYDTO.pdb
+C:\Users\Mariusz\source\repos\LibraryEntityFramework\MyPeopleCRUD\bin\Debug\LiteDB.xml
+C:\Users\Mariusz\source\repos\LibraryEntityFramework\MyPeopleCRUD\obj\Debug\MyPeopleCRUD.csproj.CopyComplete
+C:\Users\Mariusz\source\repos\LibraryEntityFramework\MyPeopleCRUD\obj\Debug\MyPeopleCRUD.dll
+C:\Users\Mariusz\source\repos\LibraryEntityFramework\MyPeopleCRUD\obj\Debug\MyPeopleCRUD.pdb
