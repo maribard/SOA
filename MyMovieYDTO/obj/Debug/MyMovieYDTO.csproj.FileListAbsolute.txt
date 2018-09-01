@@ -1,0 +1,6 @@
+C:\Users\Mariusz\source\repos\LibraryEntityFramework\MyMovieYDTO\bin\Debug\MyMovieYDTO.dll
+C:\Users\Mariusz\source\repos\LibraryEntityFramework\MyMovieYDTO\bin\Debug\MyMovieYDTO.pdb
+C:\Users\Mariusz\source\repos\LibraryEntityFramework\MyMovieYDTO\obj\Debug\MyMovieYDTO.csprojResolveAssemblyReference.cache
+C:\Users\Mariusz\source\repos\LibraryEntityFramework\MyMovieYDTO\obj\Debug\MyMovieYDTO.csproj.CoreCompileInputs.cache
+C:\Users\Mariusz\source\repos\LibraryEntityFramework\MyMovieYDTO\obj\Debug\MyMovieYDTO.dll
+C:\Users\Mariusz\source\repos\LibraryEntityFramework\MyMovieYDTO\obj\Debug\MyMovieYDTO.pdb

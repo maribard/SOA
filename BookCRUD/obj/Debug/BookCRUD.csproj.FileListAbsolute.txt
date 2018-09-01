@@ -1,0 +1,11 @@
+C:\Users\Mariusz\source\repos\Library\BookCRUD\bin\Debug\BookCRUD.dll
+C:\Users\Mariusz\source\repos\Library\BookCRUD\bin\Debug\BookCRUD.pdb
+C:\Users\Mariusz\source\repos\Library\BookCRUD\bin\Debug\LibraryYTDO.dll
+C:\Users\Mariusz\source\repos\Library\BookCRUD\bin\Debug\LiteDB.dll
+C:\Users\Mariusz\source\repos\Library\BookCRUD\bin\Debug\LibraryYTDO.pdb
+C:\Users\Mariusz\source\repos\Library\BookCRUD\bin\Debug\LiteDB.xml
+C:\Users\Mariusz\source\repos\Library\BookCRUD\obj\Debug\BookCRUD.csprojResolveAssemblyReference.cache
+C:\Users\Mariusz\source\repos\Library\BookCRUD\obj\Debug\BookCRUD.csproj.CoreCompileInputs.cache
+C:\Users\Mariusz\source\repos\Library\BookCRUD\obj\Debug\BookCRUD.csproj.CopyComplete
+C:\Users\Mariusz\source\repos\Library\BookCRUD\obj\Debug\BookCRUD.dll
+C:\Users\Mariusz\source\repos\Library\BookCRUD\obj\Debug\BookCRUD.pdb

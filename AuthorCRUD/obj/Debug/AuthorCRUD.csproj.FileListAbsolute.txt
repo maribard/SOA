@@ -1,0 +1,11 @@
+C:\Users\Mariusz\source\repos\Library\AuthorCRUD\bin\Debug\AuthorCRUD.dll
+C:\Users\Mariusz\source\repos\Library\AuthorCRUD\bin\Debug\AuthorCRUD.pdb
+C:\Users\Mariusz\source\repos\Library\AuthorCRUD\bin\Debug\LibraryYTDO.dll
+C:\Users\Mariusz\source\repos\Library\AuthorCRUD\bin\Debug\LiteDB.dll
+C:\Users\Mariusz\source\repos\Library\AuthorCRUD\bin\Debug\LibraryYTDO.pdb
+C:\Users\Mariusz\source\repos\Library\AuthorCRUD\bin\Debug\LiteDB.xml
+C:\Users\Mariusz\source\repos\Library\AuthorCRUD\obj\Debug\AuthorCRUD.csprojResolveAssemblyReference.cache
+C:\Users\Mariusz\source\repos\Library\AuthorCRUD\obj\Debug\AuthorCRUD.csproj.CoreCompileInputs.cache
+C:\Users\Mariusz\source\repos\Library\AuthorCRUD\obj\Debug\AuthorCRUD.csproj.CopyComplete
+C:\Users\Mariusz\source\repos\Library\AuthorCRUD\obj\Debug\AuthorCRUD.dll
+C:\Users\Mariusz\source\repos\Library\AuthorCRUD\obj\Debug\AuthorCRUD.pdb

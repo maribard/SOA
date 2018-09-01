@@ -1,0 +1,14 @@
+C:\Users\Mariusz\source\repos\LibraryEntityFramework\MyMovieService\bin\MyMovieService.dll.config
+C:\Users\Mariusz\source\repos\LibraryEntityFramework\MyMovieService\bin\MyMovieService.dll
+C:\Users\Mariusz\source\repos\LibraryEntityFramework\MyMovieService\bin\MyMovieService.pdb
+C:\Users\Mariusz\source\repos\LibraryEntityFramework\MyMovieService\bin\MyMovieCRUD.dll
+C:\Users\Mariusz\source\repos\LibraryEntityFramework\MyMovieService\bin\MyMovieYDTO.dll
+C:\Users\Mariusz\source\repos\LibraryEntityFramework\MyMovieService\bin\LiteDB.dll
+C:\Users\Mariusz\source\repos\LibraryEntityFramework\MyMovieService\bin\MyMovieCRUD.pdb
+C:\Users\Mariusz\source\repos\LibraryEntityFramework\MyMovieService\bin\MyMovieYDTO.pdb
+C:\Users\Mariusz\source\repos\LibraryEntityFramework\MyMovieService\bin\LiteDB.xml
+C:\Users\Mariusz\source\repos\LibraryEntityFramework\MyMovieService\obj\Debug\MyMovieService.csprojResolveAssemblyReference.cache
+C:\Users\Mariusz\source\repos\LibraryEntityFramework\MyMovieService\obj\Debug\MyMovieService.csproj.CoreCompileInputs.cache
+C:\Users\Mariusz\source\repos\LibraryEntityFramework\MyMovieService\obj\Debug\MyMovieService.csproj.CopyComplete
+C:\Users\Mariusz\source\repos\LibraryEntityFramework\MyMovieService\obj\Debug\MyMovieService.dll
+C:\Users\Mariusz\source\repos\LibraryEntityFramework\MyMovieService\obj\Debug\MyMovieService.pdb

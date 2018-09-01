@@ -1,0 +1,11 @@
+C:\Users\Mariusz\source\repos\LibraryEntityFramework\MyMovieCRUD\bin\Debug\MyMovieCRUD.dll
+C:\Users\Mariusz\source\repos\LibraryEntityFramework\MyMovieCRUD\bin\Debug\MyMovieCRUD.pdb
+C:\Users\Mariusz\source\repos\LibraryEntityFramework\MyMovieCRUD\bin\Debug\LiteDB.dll
+C:\Users\Mariusz\source\repos\LibraryEntityFramework\MyMovieCRUD\bin\Debug\MyMovieYDTO.dll
+C:\Users\Mariusz\source\repos\LibraryEntityFramework\MyMovieCRUD\bin\Debug\MyMovieYDTO.pdb
+C:\Users\Mariusz\source\repos\LibraryEntityFramework\MyMovieCRUD\bin\Debug\LiteDB.xml
+C:\Users\Mariusz\source\repos\LibraryEntityFramework\MyMovieCRUD\obj\Debug\MyMovieCRUD.csprojResolveAssemblyReference.cache
+C:\Users\Mariusz\source\repos\LibraryEntityFramework\MyMovieCRUD\obj\Debug\MyMovieCRUD.csproj.CoreCompileInputs.cache
+C:\Users\Mariusz\source\repos\LibraryEntityFramework\MyMovieCRUD\obj\Debug\MyMovieCRUD.csproj.CopyComplete
+C:\Users\Mariusz\source\repos\LibraryEntityFramework\MyMovieCRUD\obj\Debug\MyMovieCRUD.dll
+C:\Users\Mariusz\source\repos\LibraryEntityFramework\MyMovieCRUD\obj\Debug\MyMovieCRUD.pdb
